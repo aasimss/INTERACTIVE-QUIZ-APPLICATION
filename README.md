@@ -141,3 +141,13 @@ Randomizing the order of questions and answers.
 
 In just a small amount of code, this project delivers a fully functional quiz system that is interactive, polished, and educational.
 
+#OUTPUT :
+
+<img width="1366" height="724" alt="Image" src="https://github.com/user-attachments/assets/9a57554a-306e-4cd8-a7c8-3562d3f8a720" />
+<img width="1366" height="730" alt="Image" src="https://github.com/user-attachments/assets/55aeeefe-e0c6-412c-85f4-815d3e9ad1b3" />
+<img width="1366" height="698" alt="Image" src="https://github.com/user-attachments/assets/4809b27f-e79b-4327-be45-9a045ec72548" />
+<img width="1366" height="617" alt="Image" src="https://github.com/user-attachments/assets/f5d58e4f-e585-46d2-82ac-24cbb2a4788f" />
+<img width="1366" height="621" alt="Image" src="https://github.com/user-attachments/assets/2df7d144-4b05-4fd8-a3f5-7af4ea6ec4ae" />
+<img width="1366" height="630" alt="Image" src="https://github.com/user-attachments/assets/8c61a72e-078d-45fc-836d-abfa49c3b659" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/9be8a07d-3b92-41e8-b419-1e185a2d53ca" />
+<img width="1366" height="668" alt="Image" src="https://github.com/user-attachments/assets/22aef70d-7097-49db-88aa-395659c2766c" />
