@@ -141,7 +141,8 @@ Randomizing the order of questions and answers.
 
 In just a small amount of code, this project delivers a fully functional quiz system that is interactive, polished, and educational.
 
-#OUTPUT :
+
+OUTPUT :
 
 <img width="1366" height="724" alt="Image" src="https://github.com/user-attachments/assets/9a57554a-306e-4cd8-a7c8-3562d3f8a720" />
 <img width="1366" height="730" alt="Image" src="https://github.com/user-attachments/assets/55aeeefe-e0c6-412c-85f4-815d3e9ad1b3" />
